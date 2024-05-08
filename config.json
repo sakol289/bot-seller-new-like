@@ -1,0 +1,23 @@
+{
+    "botToken": "",
+    "commnadPrefix": "!",
+    "serverId": [
+        1183049691877883924
+    ],
+    "ownerIds": [
+        840473070598094849
+    ],
+    "channelTopupLog": 1236783999637131294,
+    "channelserviceLog": 1236760249030148237,
+    "submitChannelId": 1236760216629153943,
+    "roleAddEnable": false,
+    "roleAddRoleId": "00000000000000000000",
+    "phoneNumber": "",
+    "embed": {
+        "imglogo": "https://new-like.com/assets/uploads/logo/meta.png"
+    },
+    "contectlink":"https://new-like.com/",
+    "configapi": {
+        "apikey": ""
+    }
+}
