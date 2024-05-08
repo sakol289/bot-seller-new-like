@@ -44,7 +44,7 @@ pip install -r requirements.txt
 python main.py
 ```
 # หรือหากต้องการใช้งานบน replit สามารถใช้งานได้ที่
-https://replit.com/@sakol289/bottdiscordsellerapp
+[https://replit.com/@sakol289/bthkhaayailkh-tidtaam-wiw-new-like](https://replit.com/@sakol289/bthkhaayailkh-tidtaam-wiw-new-like)
 
 # หากมีปัญหาติดต่อช่องทางได้ตามนี้
 
