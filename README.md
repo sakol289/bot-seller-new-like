@@ -39,6 +39,9 @@ pip install -r requirements.txt
 
 
 
+## วิธีการใช้งาน
+[คลิปสอนการใช้งาน](https://youtu.be/piwnkbRfQqM)
+
 ## วิธีการทำงาน
 ```bash
 python main.py
